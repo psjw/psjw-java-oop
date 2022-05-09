@@ -1,5 +1,5 @@
-import sort.BubbleSort;
-import sort.Sort;
+import logic.BubbleSort;
+import logic.Sort;
 
 import java.util.Arrays;
 
